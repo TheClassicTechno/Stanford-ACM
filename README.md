@@ -1,5 +1,7 @@
 # Stanford ACM
 
+Official website for Stanford's ACM club (Association of Computing Machinery). Includes parts such as web development, machine learning, quant finance, puzzles, and more.
+
 ## Installation
 
 First, install the dependencies:
